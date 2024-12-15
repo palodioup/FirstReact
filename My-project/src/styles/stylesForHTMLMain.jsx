@@ -1,7 +1,7 @@
 const mainStyles = {
   display: "flex",
   justifyContent: "center",
-  alignItems: "center"
-}
+  alignItems: "center",
+};
 
-export default mainStyles
+export default mainStyles;

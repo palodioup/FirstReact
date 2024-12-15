@@ -5,7 +5,7 @@ const stylesForBodyMain = {
   color: "white",
   padding: "50px",
   borderRadius: "50px",
-  width: "500px"
-}
+  width: "500px",
+};
 
-export default stylesForBodyMain
+export default stylesForBodyMain;

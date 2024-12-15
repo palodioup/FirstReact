@@ -1,5 +1,4 @@
-import headerUlStyle from "../styles/styles.jsx"
-
+import headerUlStyle from "../styles/styles.jsx";
 
 function Header() {
   return (
@@ -12,9 +11,7 @@ function Header() {
         </ul>
       </nav>
     </header>
-    )
+  );
 }
 
-
-
-export default Header
+export default Header;

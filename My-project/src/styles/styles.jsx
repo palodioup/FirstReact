@@ -5,7 +5,7 @@ const headerUlStyle = {
   textAlign: "center",
   textIndent: "40px",
   justifyContent: "end",
-  marginRight: "50px"
-}
+  marginRight: "50px",
+};
 
-export default headerUlStyle
+export default headerUlStyle;
