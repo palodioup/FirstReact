@@ -1,7 +1,7 @@
 const FooterStyles = {
   backgroundColor: "#333",
   color: "white",
-  padding: "7.5px",
+  padding: "1.2px",
 };
 
 export default FooterStyles;

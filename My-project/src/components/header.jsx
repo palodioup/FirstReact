@@ -1,6 +1,6 @@
 import headerUlStyle from "../styles/styles.jsx";
 
-function Header() {
+const Header = () => {
   return (
     <header>
       <nav>
