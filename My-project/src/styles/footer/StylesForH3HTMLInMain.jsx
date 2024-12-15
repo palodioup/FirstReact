@@ -1,7 +1,7 @@
 const H3HTMLElemSty = {
   display: "flex",
   justifyContent: "center",
-  alignItems: "center"
-}
+  alignItems: "center",
+};
 
-export default H3HTMLElemSty
+export default H3HTMLElemSty;

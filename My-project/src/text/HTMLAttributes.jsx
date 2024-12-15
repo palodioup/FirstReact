@@ -1,3 +1,3 @@
-const alt = "ReactLogo"
+const alt = "ReactLogo";
 
-export default alt
+export default alt;

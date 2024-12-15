@@ -1,5 +1,5 @@
-import stylesForBodyMain from "../styles/stylesForCardBodyMain";
-import mainStyles from "../styles/stylesForHTMLMain";
+import stylesForBodyMain from "../styles/main/stylesForCardBodyMain";
+import mainStyles from "../styles/main/stylesForHTMLMain";
 import ReactLogo from "../assets/react.svg";
 import alt from "../text/HTMLAttributes";
 
@@ -16,6 +16,6 @@ const Main = () => {
       </div>
     </main>
   );
-}
+};
 
 export default Main;

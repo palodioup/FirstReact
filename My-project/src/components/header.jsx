@@ -1,4 +1,4 @@
-import headerUlStyle from "../styles/styles.jsx";
+import headerUlStyle from "../styles/header/styles.jsx";
 
 const Header = () => {
   return (
@@ -12,6 +12,6 @@ const Header = () => {
       </nav>
     </header>
   );
-}
+};
 
 export default Header;
